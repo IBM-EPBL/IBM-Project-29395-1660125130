@@ -1,7 +1,7 @@
 # IBM-Project-29395-1660125130
 ## Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
-![image](https://user-images.githubusercontent.com/113840330/202767695-225ad884-f60a-49d4-a34b-093e9b1f57f3.png)
+![image](https://user-images.githubusercontent.com/113840330/202767888-56c8aba2-04e5-40b4-87bc-e2145a62ad73.png)
 
 ## Team ID 
 PNT2022TMID28187
